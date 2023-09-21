@@ -40,3 +40,44 @@ Step 22: Rinse your toothbrush with the cold water, getting rid of the rest of t
 Step 23: Turn off the water in your sink with your empty hand.
 Step 24: Place the toothbrush back where you found it.
 Step 25: You are done C:
+
+<h2>3. Give your thoughts</h2>
+Q: *What was positive and good about using TDD?*
+A: 
+Improved Code Quality: By encouraging to writing tests first, which leads to more reliable and maintainable code.
+
+Early Issue Detection: It helps catch bugs and issues early in the development process, reducing the cost of fixing them later.
+
+Clear Requirements: Forces us to define clear requirements and specifications for their code.
+
+Documentation: Tests serve as documentation and examples of how code should be used.
+
+Confidence: We gain confidence in our code's correctness because it's continuously tested.
+
+Refactoring Safety: Makes it safer to refactor code, knowing that tests will catch regressions.
+
+Collaboration: It fosters collaboration by providing a clear understanding of code behavior.
+
+Productivity: In the long run, it can lead to faster development and fewer defects.
+
+Q: _What was annoying or difficult?_
+A:
+Initial Learning Curve: It may be challenging to adopt initially, as it requires a mindset shift and learning new practices.
+
+Time-Consuming: Writing tests before code can be time-consuming, especially for complex systems.
+
+Maintenance Overhead: Maintaining a large suite of tests can be cumbersome and time-intensive.
+
+Resistance: Some team members may resist to this development-style due to the perceived added workload.
+
+Test Dependency: Tests can become overly dependent on implementation details, making refactoring harder.
+
+Incomplete Coverage: Achieving complete test coverage can be difficult, leading to potential blind spots.
+
+Continuous Discipline: Staying disciplined in writing tests for every piece of code can be challenging.
+
+Q: _What surprised you?_
+A: It feels like _double-work_. However it helps me be more confident with the code that I have produced
+
+Q: _Did TDD help you write some tests you wouldn’t otherwise have thought of?_
+A: It helped me write tests for what would be unthinkable inputs. Like I would never in a million years think about how a function that takes 2 numbers, and add them together, would react to non-number inputs. Or the same with Roman numeral convert. And how it would react to non-roman-numeral inputs
