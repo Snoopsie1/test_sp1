@@ -10,10 +10,11 @@ reasons for the man not dying."*
 4. The man wears a bulletproof vest
 5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
 <h2>1.2</h2>
-*"An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
+_"An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
 toothpaste with your left hand; turn the cap
-anti-clockwise)"*
+anti-clockwise)"_
+
 Step 1: Grab a toothbrush in one hand
 Step 2: With your empty hand, turn on the cold water in your sink
 Step 3: Rinse the toothbrush-hairs with cold water
@@ -41,8 +42,10 @@ Step 23: Turn off the water in your sink with your empty hand.
 Step 24: Place the toothbrush back where you found it.
 Step 25: You are done C:
 
-<h2>3. Give your thoughts</h2>
-Q: *What was positive and good about using TDD?*
+<h3>3. Give your thoughts</h3>
+
+<h2>Q: _What was positive and good about using TDD?_</h2>
+
 A: 
 Improved Code Quality: By encouraging to writing tests first, which leads to more reliable and maintainable code.
 
@@ -60,7 +63,8 @@ Collaboration: It fosters collaboration by providing a clear understanding of co
 
 Productivity: In the long run, it can lead to faster development and fewer defects.
 
-Q: _What was annoying or difficult?_
+<h2>Q: _What was annoying or difficult?_</h2>
+
 A:
 Initial Learning Curve: It may be challenging to adopt initially, as it requires a mindset shift and learning new practices.
 
@@ -76,8 +80,10 @@ Incomplete Coverage: Achieving complete test coverage can be difficult, leading 
 
 Continuous Discipline: Staying disciplined in writing tests for every piece of code can be challenging.
 
-Q: _What surprised you?_
+<h2>Q: _What surprised you?_</h2>
+
 A: It feels like _double-work_. However it helps me be more confident with the code that I have produced
 
-Q: _Did TDD help you write some tests you wouldn’t otherwise have thought of?_
+<h2>Q: _Did TDD help you write some tests you wouldn’t otherwise have thought of?_</h2>
+
 A: It helped me write tests for what would be unthinkable inputs. Like I would never in a million years think about how a function that takes 2 numbers, and add them together, would react to non-number inputs. Or the same with Roman numeral convert. And how it would react to non-roman-numeral inputs
