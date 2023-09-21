@@ -1,6 +1,7 @@
+import { romanToArabic } from "../functions/romanToNumeral";
 
 describe('Test Roman-Numbers to Arabic-Numbers Function:', () => {
-  it('', () => {
-    expect((60)).toBe(16);
+  it('Should return 14', () => {
+    expect(romanToArabic("XIV")).toBe(14);
   });
 });
