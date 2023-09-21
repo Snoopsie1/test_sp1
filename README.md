@@ -80,7 +80,7 @@ Incomplete Coverage: Achieving complete test coverage can be difficult, leading 
 
 Continuous Discipline: Staying disciplined in writing tests for every piece of code can be challenging.
 
-<h2>Q: _What surprised you?_</h2>
+<h2>Q: _What surprised you?_ </h2>
 
 A: It feels like _double-work_. However it helps me be more confident with the code that I have produced
 
