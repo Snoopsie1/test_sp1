@@ -1,6 +1,6 @@
 
 describe('Test Roman-Numbers to Arabic-Numbers Function:', () => {
-  it('Should fail', () => {
+  it('', () => {
     expect((60)).toBe(16);
   });
 });
