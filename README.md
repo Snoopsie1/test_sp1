@@ -1,15 +1,15 @@
 # Test SP1
 
-#<h1>1. Reflections</h1>
-#<h2>1.1 Shooting</h2>
+## 1. Reflections
+### 1.1 Shooting
 #A woman fired a shot at a man with her gun, but the man did not die. List the possible
 reasons for the man not dying.
-#1. The woman missed the target
-#2. The firearm isn't lethal
-#3. Bullet deflection
-#4. The man wears a bulletproof vest
-#5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
-<h2>1.2</h2>
+1. The woman missed the target
+2. The firearm isn't lethal
+3. Bullet deflection
+4. The man wears a bulletproof vest
+5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
+### 1.2
 "An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
 toothpaste with your left hand; turn the cap
@@ -42,9 +42,9 @@ Step 23: Turn off the water in your sink with your empty hand.
 Step 24: Place the toothbrush back where you found it.
 Step 25: You are done C:
 
-<h3>3. Give your thoughts</h3>
+## 3. Give your thoughts
 
-<h2>Q: _What was positive and good about using TDD?_</h2>
+### Q: _What was positive and good about using TDD?
 
 A: 
 Improved Code Quality: By encouraging to writing tests first, which leads to more reliable and maintainable code.
@@ -80,7 +80,7 @@ Incomplete Coverage: Achieving complete test coverage can be difficult, leading 
 
 Continuous Discipline: Staying disciplined in writing tests for every piece of code can be challenging.
 
-<h2>Q: _What surprised you?_ </h2>
+### Q: _What surprised you?_
 
 A: It feels like _double-work_. However it helps me be more confident with the code that I have produced
 
