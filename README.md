@@ -1,14 +1,14 @@
 # Test SP1
 
-<h1>1. Reflections</h1>
-<h2>1.1 Shooting</h2>
-A woman fired a shot at a man with her gun, but the man did not die. List the possible
+#<h1>1. Reflections</h1>
+#<h2>1.1 Shooting</h2>
+#A woman fired a shot at a man with her gun, but the man did not die. List the possible
 reasons for the man not dying.
-1. The woman missed the target
-2. The firearm isn't lethal
-3. Bullet deflection
-4. The man wears a bulletproof vest
-5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
+#1. The woman missed the target
+#2. The firearm isn't lethal
+#3. Bullet deflection
+#4. The man wears a bulletproof vest
+#5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
 <h2>1.2</h2>
 "An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
