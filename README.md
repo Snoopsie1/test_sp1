@@ -2,8 +2,8 @@
 
 ## 1. Reflections
 ### 1.1 Shooting
-#A woman fired a shot at a man with her gun, but the man did not die. List the possible
-reasons for the man not dying.
+_A woman fired a shot at a man with her gun, but the man did not die. List the possible
+reasons for the man not dying_.
 1. The woman missed the target
 2. The firearm isn't lethal
 3. Bullet deflection
@@ -11,10 +11,10 @@ reasons for the man not dying.
 5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
 
 ### 1.2 Alien
-"An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
+"_An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
 toothpaste with your left hand; turn the cap
-anti-clockwise)"
+anti-clockwise)_"
 
 1. Grab a toothbrush in one hand
 2. With your empty hand, turn on the cold water in your sink
@@ -45,7 +45,7 @@ anti-clockwise)"
 
 ## 3. Give your thoughts
 
-### Q: _What was positive and good about using TDD?
+### Q: _What was positive and good about using TDD_?
 
 A: 
 Improved Code Quality: By encouraging to writing tests first, which leads to more reliable and maintainable code.
