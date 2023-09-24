@@ -9,7 +9,8 @@ reasons for the man not dying.
 3. Bullet deflection
 4. The man wears a bulletproof vest
 5. Medical intervention, if someone could intervene and medically help the man persist through a fatal injury.
-### 1.2
+
+### 1.2 Alien
 "An alien meets you and it asks you to teach it how to brush its teeth. Assume that the
 alien has teeth exactly like yours, and is as smart as you, but it needs a clear step-bystep instruction. List the steps. Be as detailed as you can. (Example: Hold the
 toothpaste with your left hand; turn the cap
