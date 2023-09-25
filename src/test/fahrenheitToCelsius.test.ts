@@ -1,7 +1,7 @@
 import { fahrenheitToCelsius } from "../functions/fahrenheit-to-celsius";
 
 describe('Test Fahrenheit-To-Celsius Function:', () => {
-  it('Converts 60 Fahrenheit to 16 Celsius', () => {
+  it('FahrenheitToCelsius_FahrenheitIs60_CelsiusIs16', () => {
     expect(fahrenheitToCelsius(60)).toBe(16);
   });
 });
