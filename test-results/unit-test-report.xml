@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" errors="0" time="3.617">
+  <testsuite name="Test Fahrenheit-To-Celsius Function:" errors="0" failures="0" skipped="0" timestamp="2023-11-02T09:01:26" time="3.091" tests="1">
+    <testcase classname="Test Fahrenheit-To-Celsius Function: FahrenheitToCelsius_FahrenheitIs60_CelsiusIs16" name="Test Fahrenheit-To-Celsius Function: FahrenheitToCelsius_FahrenheitIs60_CelsiusIs16" time="0.016">
+    </testcase>
+  </testsuite>
+  <testsuite name="2 (Two Katas) Test Add Function:" errors="0" failures="0" skipped="0" timestamp="2023-11-02T09:01:26" time="3.084" tests="2">
+    <testcase classname="2 (Two Katas) Test Add Function: Add_10And5_15" name="2 (Two Katas) Test Add Function: Add_10And5_15" time="0.01">
+    </testcase>
+    <testcase classname="2 (Two Katas) Test Add Function: Add_2And3_5" name="2 (Two Katas) Test Add Function: Add_2And3_5" time="0.003">
+    </testcase>
+  </testsuite>
+  <testsuite name="Test Roman-Numbers to Arabic-Numbers Function:" errors="0" failures="0" skipped="0" timestamp="2023-11-02T09:01:26" time="3.119" tests="2">
+    <testcase classname="Test Roman-Numbers to Arabic-Numbers Function: RomanToArabicNumbers_RomanIsXIV_Returns14" name="Test Roman-Numbers to Arabic-Numbers Function: RomanToArabicNumbers_RomanIsXIV_Returns14" time="0.008">
+    </testcase>
+    <testcase classname="Test Roman-Numbers to Arabic-Numbers Function: RomanToArabicNumbers_RomanIs&quot;foo&quot;_ReturnsNaN" name="Test Roman-Numbers to Arabic-Numbers Function: RomanToArabicNumbers_RomanIs&quot;foo&quot;_ReturnsNaN" time="0.003">
+    </testcase>
+  </testsuite>
+</testsuites>

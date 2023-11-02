@@ -1,4 +1,4 @@
-import { add } from '../functions/calc';
+import { add } from '../../functions/calc';
 
 describe('2 (Two Katas) Test Add Function:', () => {
 	it('Add_10And5_15', () => {

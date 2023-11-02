@@ -1,7 +1,8 @@
 import { defineFeature, loadFeature } from 'jest-cucumber';
-import { fahrenheitToCelsius } from '../src/functions/fahrenheit-to-celsius';
+import { fahrenheitToCelsius } from '../functions/fahrenheit-to-celsius';
 
-const feature = loadFeature('./features/fahrenheitToCelsius.feature');
+
+const feature = loadFeature('./src/features/fahrenheitToCelsius.feature');
 
 defineFeature(feature, (test) => {
   let fahrenheit: number;

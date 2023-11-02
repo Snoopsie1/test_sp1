@@ -2,7 +2,10 @@ module.exports = {
 	preset: 'ts-jest',
 	testEnvironment: 'node',
 	moduleFileExtensions: ['ts', 'js', 'json'],
-	testMatch: ['**/test/unit/*.test.ts'],
+	transform: {
+		'^.+\\.ts$': 'ts-jest',
+	},
+	testMatch: ['**/test/integration/*.test.ts'],
 	globals: {
 		'ts-jest': {
 			tsconfig: 'tsconfig.json',
@@ -14,7 +17,7 @@ module.exports = {
 			'jest-junit',
 			{
 				outputDirectory: 'test-results/',
-				outputName: 'unit-test-report.xml',
+				outputName: 'integration-test-report.xml',
 			},
 		],
 	],
